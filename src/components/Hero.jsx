@@ -1,5 +1,6 @@
 import { HERO_CONTENT } from "../constants";
 import profilePic from "../assets/lukeManyamaziProfile.jpg";
+import { motion } from "framer-motion";
 
 const Hero = () => {
   return (
