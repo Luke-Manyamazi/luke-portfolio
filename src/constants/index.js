@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/project-1.png";
+import project2 from "../assets/projects/project-2.png";
+import project3 from "../assets/projects/project-3.png";
+import project4 from "../assets/projects/project-4.png";
 
 export const HERO_CONTENT = `An IT Support Technician with over a decade of diverse experience in the technology and administrative sectors. Proficient in managing and troubleshooting complex IT systems, including VPN configurations, network setups, and hardware installations. Adept at providing exceptional user support and training, ensuring seamless operation and integration of various software applications. 
 Proven track record in vehicle licensing supervision, project coordination, and customer care, showcasing strong organizational and leadership abilities. Currently pursuing a BSc in Software Engineering and Computer Science, with a strong foundation in Python programming and cloud computing. A CodeYourFuture trainee, also building projects with FreeCodeCamp while learning.
@@ -47,37 +47,44 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "TV Show Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A TV show listing app that fetches and displays TV show data from the TVMaze API, allowing users to search and explore shows and episodes.",
+    technologies: ["HTML", "CSS", "JavaScript"],
   },
   {
-    title: "Task Management App",
+    title: "Number Sorter App",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "A JavaScript app that sorts an array of numbers in ascending or descending order, teaching basic algorithmic thinking and sorting logic.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+  },
+  {
+    title: "Home Town Homepage",
+    image: project3,
+    description:
+      "A website highlighting Cape Town’s top attractions and activities, from Table Mountain to Robben Island, for an unforgettable travel experience.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+  },
+  {
+    title: "Tribute Page",
+    image: project4,
+    description:
+      "A tribute page honoring Nelson Mandela, showcasing his life, legacy, and achievements through inspiring quotes, key milestones, and historical insights.",
+    technologies: ["HTML", "CSS", "JavaScript"],
   },
   {
     title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "A tribute page honoring Nelson Mandela, showcasing his life, legacy, and achievements through inspiring quotes, key milestones, and historical insights.",
+    technologies: ["React", "Tailwind CSS", "Framer Motion"],
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "11th Street, Kensington, Cape Town, South Africa",
+  phoneNo: "+27 62 107 1400",
+  email: "lukemanyamazi1@gmail.com",
 };
