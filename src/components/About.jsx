@@ -12,6 +12,8 @@ const About = () => {
           <div className="flex items-center justify-center">
             <img
               src={aboutImg}
+              width={400}
+              height={400}
               alt="Luke Manyamazi on a gray background"
               className="rounded-2xl brightness-90 bg-gradient-to-tl from-black via-transparent to-black opacity-50"
             />
