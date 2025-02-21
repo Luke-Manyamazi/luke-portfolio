@@ -2,6 +2,12 @@ import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
+import project5 from "../assets/projects/project-5.png";
+import certificate1 from "../assets/certificates/certificate-1.png";
+import certificate2 from "../assets/certificates/certificate-2.png";
+import certificate3 from "../assets/certificates/certificate-3.png";
+import certificate4 from "../assets/certificates/certificate-4.png";
+import certificate5 from "../assets/certificates/certificate-5.png";
 
 export const HERO_CONTENT = `An IT Support Technician with over a decade of diverse experience in the technology and administrative sectors. Proficient in managing and troubleshooting complex IT systems, including VPN configurations, network setups, and hardware installations. Adept at providing exceptional user support and training, ensuring seamless operation and integration of various software applications. 
 Proven track record in vehicle licensing supervision, project coordination, and customer care, showcasing strong organizational and leadership abilities. Currently pursuing a BSc in Software Engineering and Computer Science, with a strong foundation in Python programming and cloud computing. A CodeYourFuture trainee, also building projects with FreeCodeCamp while learning.
@@ -11,6 +17,51 @@ export const ABOUT_TEXT = `Hi, I am Luke Manyamazi, an IT professional with a we
 Currently, I am a trainee at CodeYourFuture, where I am sharpening my coding skills through hands-on projects and collaborative learning. I am also in my second year of the BSc Honours in Computer Engineering at Zimbabwe Open University, further expanding my technical knowledge. I am passionate about exploring new programming languages and technologies, and I look forward to applying my skills to build real-world solutions. Through my GitHub, I aim to share my learning journey and projects with the developer community, while continually improving and taking on new challenges.
 My ultimate goal is to become a full-stack software engineer, capable of developing robust, end-to-end applications that solve meaningful problems. I am committed to continuous learning and growth as I work towards this objective.
 `;
+
+export const CERTIFICATES = [
+  {
+    name: "Introduction to AWS Certifications ",
+    institution: "AWS",
+    image: certificate1,
+    description:
+      "A beginner-friendly course that provides an overview of AWS Certifications, their benefits, and guidance on choosing the right certification to validate cloud computing skills.",
+  },
+  {
+    name: "AWS Cloud Practitioner Essentials",
+    institution: "AWS",
+    image: certificate1,
+    description:
+      "A foundational AWS course that covers core cloud concepts, AWS services, security, pricing, and best practices to prepare for the AWS Certified Cloud Practitioner exam.",
+  },
+  {
+    name: "Cloud Computing 101",
+    institution: "Coursera",
+    image: certificate2,
+    description:
+      "A beginner-level course that provides an overview of cloud computing concepts, services, and deployment models, including hands-on labs and real-world examples.",
+  },
+  {
+    name: "CS50's Introduction to Python",
+    institution: "Harvard University",
+    image: certificate3,
+    description:
+      "A Harvard course that introduces Python programming, covering fundamentals like data structures, functions, file handling, and problem-solving through hands-on projects.",
+  },
+  {
+    name: "Responsive Web Design Certification",
+    institution: "FreeCodeCamp",
+    image: certificate4,
+    description:
+      "A comprehensive certification that covers the basics of responsive web design, including HTML5, CSS3, and responsive design principles, to create user-friendly websites.",
+  },
+  {
+    name: "Designing and Deploying LAN and Wi-Fi Networks",
+    institution: "The Internet Society",
+    image: certificate5,
+    description:
+      "A course that covers the principles of designing, configuring, and deploying LAN and Wi-Fi networks, including network architecture, security, and troubleshooting.",
+  },
+];
 
 export const EXPERIENCES = [
   {
@@ -76,7 +127,7 @@ export const PROJECTS = [
   },
   {
     title: "Portfolio Website",
-    image: project4,
+    image: project5,
     description:
       "A tribute page honoring Nelson Mandela, showcasing his life, legacy, and achievements through inspiring quotes, key milestones, and historical insights.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
@@ -85,6 +136,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "11th Street, Kensington, Cape Town, South Africa",
-  phoneNo: "+27 62 107 1400",
+  phoneNo: "+27 62 107 1140",
   email: "lukemanyamazi1@gmail.com",
 };
