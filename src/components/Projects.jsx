@@ -24,9 +24,9 @@ const Projects = () => {
               <motion.a
                 whileHover={{ scale: 1.5 }}
                 whileTap={{ scale: 1.1 }}
+                href={project.link}
                 target="_blank"
                 rel="noreferrer"
-                href={project.link}
               >
                 <img
                   src={project.image}
