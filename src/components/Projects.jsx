@@ -21,13 +21,21 @@ const Projects = () => {
               transition={{ duration: 1 }}
               className="w-full lg:w-1/4"
             >
-              <img
-                src={project.image}
-                width={250}
-                height={250}
-                alt={project.title}
-                className="mb-6 rounded brightness-75"
-              />
+              <motion.a
+                whileHover={{ scale: 1.5 }}
+                whileTap={{ scale: 1.1 }}
+                href="https://www.tiktok.com/@isirluke_?_t=ZM-8u72dzGkavf&_r=1"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src={project.image}
+                  width={250}
+                  height={250}
+                  alt={project.title}
+                  className="mb-6 rounded brightness-75"
+                />
+              </motion.a>
             </motion.div>
             <motion.div
               whileInView={{ opacity: 1, x: 0 }}
