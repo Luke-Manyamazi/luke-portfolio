@@ -111,6 +111,7 @@ export const PROJECTS = [
     description:
       "A JavaScript app that sorts an array of numbers in ascending or descending order, teaching basic algorithmic thinking and sorting logic.",
     technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://lm-number-sorter.netlify.app/",
   },
   {
     title: "Home Town Homepage",
@@ -118,6 +119,7 @@ export const PROJECTS = [
     description:
       "A website highlighting Cape Town’s top attractions and activities, from Table Mountain to Robben Island, for an unforgettable travel experience.",
     technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://lm-hometown-homepage.netlify.app",
   },
   {
     title: "Tribute Page",
@@ -125,6 +127,7 @@ export const PROJECTS = [
     description:
       "A tribute page honoring Nelson Mandela, showcasing his life, legacy, and achievements through inspiring quotes, key milestones, and historical insights.",
     technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://lm-tribute-page.netlify.app",
   },
   {
     title: "Portfolio Website",
@@ -132,6 +135,7 @@ export const PROJECTS = [
     description:
       "A tribute page honoring Nelson Mandela, showcasing his life, legacy, and achievements through inspiring quotes, key milestones, and historical insights.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
+    link: "https://lukemanyamazi-portfolio.netlify.app",
   },
 ];
 
