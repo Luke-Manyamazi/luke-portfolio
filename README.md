@@ -8,13 +8,7 @@ I am a passionate software developer with experience in building web application
 
 ## Projects
 
-Here are some of the projects included in this portfolio:
-
-- **Project Name**: Brief description of the project.
-- **Project Name**: Brief description of the project.
-- **Project Name**: Brief description of the project.
-
-*Note: Detailed information about each project can be found in their respective directories.*
+Here I showcase some of the projects that I have in so far.
 
 ## Technologies Used
 
@@ -52,7 +46,7 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
-   The application should now be running on `http://localhost:3000`.
+   The application should now be running on `http://localhost:5173`.
 
 ## Folder Structure
 
@@ -72,11 +66,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-You can reach me at:
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [Luke-Manyamazi](https://github.com/Luke-Manyamazi)
+This section has my contacts, which you can you to reach out to me.
 
 Thank you for visiting my portfolio! main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
