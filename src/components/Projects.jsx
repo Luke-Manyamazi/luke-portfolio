@@ -24,9 +24,9 @@ const Projects = () => {
               <motion.a
                 whileHover={{ scale: 1.5 }}
                 whileTap={{ scale: 1.1 }}
-                href="https://www.tiktok.com/@isirluke_?_t=ZM-8u72dzGkavf&_r=1"
                 target="_blank"
                 rel="noreferrer"
+                href={project.link}
               >
                 <img
                   src={project.image}

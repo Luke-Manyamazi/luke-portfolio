@@ -103,6 +103,7 @@ export const PROJECTS = [
     description:
       "A TV show listing app that fetches and displays TV show data from the TVMaze API, allowing users to search and explore shows and episodes.",
     technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://cyf-luke-manyamazi-tv.netlify.app",
   },
   {
     title: "Number Sorter App",
