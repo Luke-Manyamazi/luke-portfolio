@@ -135,7 +135,7 @@ export const PROJECTS = [
     description:
       "A tribute page honoring Nelson Mandela, showcasing his life, legacy, and achievements through inspiring quotes, key milestones, and historical insights.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    link: "https://lukemanyamazi-portfolio.netlify.app",
+    link: "#",
   },
 ];
 
