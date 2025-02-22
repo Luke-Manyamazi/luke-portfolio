@@ -17,6 +17,8 @@ This portfolio utilizes the following technologies:
 - **React**: A JavaScript library for building user interfaces.
 - **Vite**: A fast build tool and development server for modern web projects.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Framer Motion** – A powerful library for animations and interactive UI.
+
 
 ## Getting Started
 
