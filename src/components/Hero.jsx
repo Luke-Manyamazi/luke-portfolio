@@ -1,4 +1,5 @@
 import { HERO_CONTENT } from "../constants";
+import { HERO_CONTENT2 } from "../constants";
 import profilePic from "../assets/lukeManyamaziProfile.jpg";
 import { motion } from "framer-motion";
 
@@ -49,9 +50,17 @@ const Hero = () => {
               variants={container(1)}
               initial="hidden"
               animate="visible"
-              className="text-neutral-300 my-2 max-w-xl py-6 font-light tracking-tighter"
+              className="text-neutral-300 mb-0 my-2 max-w-xl py-6 font-light tracking-tighter"
             >
               {HERO_CONTENT}
+            </motion.p>
+            <motion.p
+              variants={container(1)}
+              initial="hidden"
+              animate="visible"
+              className="text-neutral-300 mt-0 my-2 max-w-xl py-6 font-light tracking-tighter"
+            >
+              {HERO_CONTENT2}
             </motion.p>
           </div>
           <div className="w-full lg:w-1/2 lg:p-8 flex justify-center py-10">
