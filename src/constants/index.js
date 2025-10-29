@@ -66,7 +66,7 @@ export const EXPERIENCES = [
     description: `Install, troubleshoot, and maintain VPNs, printers, scanners, and IT hardware, ensuring system uptime and reducing downtime by 30%. I manage Torga Apps and MagicPOS across 170+ stores, conduct IT asset servicing, and oversee Microsoft Office installations and software upgrades, maintaining 95% compliance. I also maintain the lab IT asset register and network server with 99.9% uptime. Additionally, I enhance website synchronization, create training content for LabTube, and support marketing by producing in-store TV content, boosting customer engagement by 30%.`,
     technologies: ["OpenVPN", "Anydesk", "MS365", "Blender", "Adobe"],
   },
-  
+
   {
     year: "2008 - 2010",
     role: "Junior Systems Administrator",
