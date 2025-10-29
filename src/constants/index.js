@@ -9,9 +9,8 @@ import certificate3 from "../assets/certificates/certificate-3.png";
 import certificate4 from "../assets/certificates/certificate-4.png";
 import certificate5 from "../assets/certificates/certificate-5.png";
 
-export const HERO_CONTENT = `An IT Support Technician with over a decade of experience in technology and administrative sectors. Skilled in managing and troubleshooting complex IT systems, including VPN configurations, network setups, and hardware installations. Adept at providing exceptional user support and training to ensure seamless software integration and operation.`;
-export const HERO_CONTENT2 = `Experienced in vehicle licensing supervision, project coordination, and customer care, demonstrating strong organizational and leadership skills. Currently pursuing a BSc in Software Engineering and Computer Science, with a solid foundation in Python programming and cloud computing. A CodeYourFuture trainee, also building projects with FreeCodeCamp while learning.`;
-
+export const HERO_CONTENT = `Versatile Software Developer Student and Trainee with hands-on experience in JavaScript, Node.js, Python and MySQL. Adept at building responsive, data-driven web applications and collaborating in Agile teams to deliver MVP products. Over a decade of IT support and systems administration experience, bringing analytical problem-solving, documentation, and teamwork skills. Currently pursuing a BSc (Hons) in Computer Engineering and training Software Developer course with CodeYourFuture to become a qualified software engineer.
+`;
 export const ABOUT_TEXT = `Hi, I’m Luke Manyamazi, an IT professional with expertise in remote and onsite technical support. I have a strong passion for technology and programming, backed by certifications in Python, web design, and cloud computing. Currently, I’m a CodeYourFuture trainee and a second-year Computer Engineering student at Zimbabwe Open University. My goal is to become a qualified software engineer, building impactful, real-world solutions while continuously learning and growing.`;
 
 export const CERTIFICATES = [
