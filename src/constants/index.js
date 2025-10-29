@@ -67,13 +67,7 @@ export const EXPERIENCES = [
     description: `Install, troubleshoot, and maintain VPNs, printers, scanners, and IT hardware, ensuring system uptime and reducing downtime by 30%. I manage Torga Apps and MagicPOS across 170+ stores, conduct IT asset servicing, and oversee Microsoft Office installations and software upgrades, maintaining 95% compliance. I also maintain the lab IT asset register and network server with 99.9% uptime. Additionally, I enhance website synchronization, create training content for LabTube, and support marketing by producing in-store TV content, boosting customer engagement by 30%.`,
     technologies: ["OpenVPN", "Anydesk", "MS365", "Blender", "Adobe"],
   },
-  {
-    year: "2013 - 2019",
-    role: "Vehicle Licensing Supervisor",
-    company: "ZINARA",
-    description: `Supervised 10+ licensing cashiers, ensuring accurate processing of 1,000+ licenses monthly while managing banking processes and compiling reports, reducing errors by 25%. I approved 500+ license cancellations annually and oversaw daily cash-ups exceeding $20,000 monthly. Additionally, I handled 100+ client queries per month with a 95% resolution rate, organized community outreach events for 2,000+ attendees, and represented the organization in 20+ stakeholder meetings to strengthen partnerships.`,
-    technologies: ["ZimLIC", "ZimToll", "Microsoft Office"],
-  },
+  
   {
     year: "2008 - 2010",
     role: "Junior Systems Administrator",
