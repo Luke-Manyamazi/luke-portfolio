@@ -53,14 +53,7 @@ const Hero = () => {
             >
               {HERO_CONTENT}
             </motion.p>
-            <motion.p
-              variants={container(1)}
-              initial="hidden"
-              animate="visible"
-              className="text-neutral-300 mt-0 my-2 max-w-xl py-6 font-light tracking-tighter"
-            >
-              {HERO_CONTENT2}
-            </motion.p>
+           
           </div>
           <div className="w-full lg:w-1/2 lg:p-8 flex justify-center py-10">
             <motion.img
