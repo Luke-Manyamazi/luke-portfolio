@@ -62,13 +62,7 @@ To run this project locally, follow these steps:
 
 I welcome contributions to this project. If you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
-This section has my contacts, which you can you to reach out to me.
+Email - lukemanyamazi1@gmail.com
 
-Thank you for visiting my portfolio! main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
